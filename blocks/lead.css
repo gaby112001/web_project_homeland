@@ -32,6 +32,7 @@
   width: 100%;
   max-width: 984px;
   filter: grayscale(100%);
+  box-shadow: 10px 10px 25px 0px #00000080;
 }
 
 @media screen and (max-width: 1024px) {
